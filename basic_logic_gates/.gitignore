@@ -1,0 +1,36 @@
+# Vivado temporary files
+*.jou
+*.log
+*.str
+*.opt
+*.backup.jou
+*.backup.log
+*.webtalk
+*.wdb
+*.xml
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.xgui/
+*.vivado/
+
+# ModelSim/QuestaSim
+transcript
+vsim.wlf
+work/
+modelsim.ini
+*.vcd
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
