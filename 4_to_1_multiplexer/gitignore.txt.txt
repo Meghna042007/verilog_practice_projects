@@ -1,0 +1,23 @@
+# Vivado project files
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.xpr
+*.Xil/
+
+# Simulation artifacts
+*.vcd
+*.wdb
+*.svf
+
+# OS/Editor files
+*.DS_Store
+*.swp
+*.swo
+*.bak
+Thumbs.db
