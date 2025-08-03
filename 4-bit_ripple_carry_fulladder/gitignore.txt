@@ -1,0 +1,46 @@
+# === Simulation-generated files ===
+*.vcd
+*.wlf
+*.log
+*.out
+*.svf
+*.jou
+*.pb
+*.str
+*.xdb
+*.bak
+*.tmp
+
+# === Vivado-related ===
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.xpr
+*.xpr.lock
+*.Xil/
+*.vivado*
+
+# === ModelSim / Questa ===
+transcript
+work/
+vsim.wlf
+modelsim.ini
+
+# === Misc IDE/editor files ===
+*.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.class
+
+# === OS-specific ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Git files ===
+*.orig
