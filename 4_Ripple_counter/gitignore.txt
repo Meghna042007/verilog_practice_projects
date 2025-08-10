@@ -1,0 +1,45 @@
+# Keep only source code, testbenches, and README
+!.gitignore
+!*.v
+!README.md
+
+# Vivado project artifacts
+*.jou
+*.log
+*.str
+*.xpr
+*.xpr.lock
+*.xsa
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.srcs/
+*.sdk/
+*.data/
+*.xilinx/
+
+# Simulation output files (Vivado, ModelSim, ISim)
+*.wlf
+*.asdb
+*.asdb.lock
+*.vcd
+*.vvp
+*.lxt
+*.lxt2
+*.fst
+*.ghw
+*.saif
+*.ucdb
+
+# Backup & temp files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
