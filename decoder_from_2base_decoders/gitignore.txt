@@ -1,0 +1,20 @@
+# Compiled files
+*.o
+*.out
+*.vvp
+*.vcd
+*.log
+
+# Simulator specific
+sim_build/
+*.wlf
+*.jou
+*.vstf
+
+# Vivado/Quartus temporary files
+*.runs/
+*.cache/
+*.jou
+*.log
+*.backup/
+*.tmp/
