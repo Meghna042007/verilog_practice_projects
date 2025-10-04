@@ -1,4 +1,4 @@
-# Verilog Practice Projects
+# Digital_Circuits_Verilog
 
 This repository contains a collection of Verilog HDL modules and testbenches for practicing digital design and simulation. Each folder includes a self-contained project focusing on specific digital logic components.
 
